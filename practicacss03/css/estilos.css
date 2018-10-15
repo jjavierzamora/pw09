@@ -1,0 +1,19 @@
+body{
+	font-size: 16px; /*1em*/
+	margin: 0px auto;
+	/*1078 es requerimiento del cliente*/
+	max-width: 1780px;
+	min-height: 1078px;
+}
+header input {
+	display: inline-block;
+	margin-left: 50px;
+	margin-right: 30px;
+	margin-top: 5px;
+	position: relative;
+}
+header img {
+	display: inline-block;
+	margin-top: 5px;
+	position: relative;	
+}
